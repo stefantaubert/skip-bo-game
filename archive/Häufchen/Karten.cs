@@ -1,0 +1,71 @@
+﻿public enum Karte
+{
+    Herz_Ass,
+    Herz_Zwei,
+    Herz_Drei,
+    Herz_Vier,
+    Herz_Fünf,
+    Herz_Sechs,
+    Herz_Sieben,
+    Herz_Acht,
+    Herz_Neun,
+    Herz_Zehn,
+    Herz_Junge,
+    Herz_Dame,
+    Herz_König,
+
+    Pik_Ass,
+    Pik_Zwei,
+    Pik_Drei,
+    Pik_Vier,
+    Pik_Fünf,
+    Pik_Sechs,
+    Pik_Sieben,
+    Pik_Acht,
+    Pik_Neun,
+    Pik_Zehn,
+    Pik_Junge,
+    Pik_Dame,
+    Pik_König,
+
+    Karo_Ass,
+    Karo_Zwei,
+    Karo_Drei,
+    Karo_Vier,
+    Karo_Fünf,
+    Karo_Sechs,
+    Karo_Sieben,
+    Karo_Acht,
+    Karo_Neun,
+    Karo_Zehn,
+    Karo_Junge,
+    Karo_Dame,
+    Karo_König,
+
+    Kreuz_Ass,
+    Kreuz_Zwei,
+    Kreuz_Drei,
+    Kreuz_Vier,
+    Kreuz_Fünf,
+    Kreuz_Sechs,
+    Kreuz_Sieben,
+    Kreuz_Acht,
+    Kreuz_Neun,
+    Kreuz_Zehn,
+    Kreuz_Junge,
+    Kreuz_Dame,
+    Kreuz_König,
+
+    Joker1,
+    Joker2,
+    Joker3,
+    Joker4,
+    Joker5,
+    Joker6,
+
+    Leer
+}
+public enum Karten
+{
+    Keine, Ass, Zwei, Drei, Vier, Fünf, Sechs, Sieben, Acht, Neun, Zehn, Bube, Dame, König, Joker
+}
