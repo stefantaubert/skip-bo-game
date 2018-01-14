@@ -30,6 +30,7 @@ namespace SkipBo.Gui
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.spielerControl2 = new SkipBo.Core.SpielerControl();
             this.stapelControl1 = new SkipBo.Core.StapelControl();
             this.spielerControl1 = new SkipBo.Core.SpielerControl();
@@ -75,6 +76,7 @@ namespace SkipBo.Gui
             this.Controls.Add(this.spielerControl2);
             this.Controls.Add(this.stapelControl1);
             this.Controls.Add(this.spielerControl1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Skip-Bo";

@@ -3,3 +3,5 @@ bin/
 obj/
 Debug/
 Release/
+/src/.vs/Häufchen/v15/sqlite3/*.ide
+/src/.vs/SkipBo/v15/sqlite3/*.ide
